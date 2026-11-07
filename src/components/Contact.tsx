@@ -24,7 +24,6 @@ export default function Contact() {
             <p>Décrivez-moi votre besoin, je vous réponds sous 24h avec une estimation et un planning.</p>
             <div className="contact-item"><div className="ico">✉</div><span>8illyjean@gmail.com</span></div>
             <div className="contact-item"><div className="ico">📱</div><span>WhatsApp : +225 05 95 70 28 23</span></div>
-            <div className="contact-item"><div className="ico">🐙</div><span>github.com/n0vitch0k</span></div>
             <div className="contact-item"><div className="ico">📍</div><span>Abidjan, Côte d'Ivoire</span></div>
           </div>
           {sent ? (
